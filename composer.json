@@ -3,6 +3,6 @@
     "description": "A api to call pay",
     "type": "library",
     "license": "apache2",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
